@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "791074854402",
+    "project_id": "fludo-fdfe8",
+    "storage_bucket": "fludo-fdfe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791074854402:android:f0e254bd87e4c52ed3b91b",
+        "android_client_info": {
+          "package_name": "com.example.fludo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791074854402-nnhqd1b0brvrffp2vagi184dcf061ora.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXNqcBwTmnukReCfl4bxJr0rtVG3Ubbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791074854402-nnhqd1b0brvrffp2vagi184dcf061ora.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791074854402-pa1u9qip9aa1h2men8i55nloi1pgph63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fludo.multiplayer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
